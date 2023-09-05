@@ -5,6 +5,11 @@ Custom portfolio made up with React JS to increase the capability and use it in 
 
 
 Also you have to download the react app through npx create-react-app application_name and get the required node modules 
-because github dosen't support node moduludes to be included. 
+because github dosen't support node moduludes to be included.
 
-cheers bois.
+there is a missing secret key in the components/ImageGenerator.jsx file .so use your own openAi secret key to fill that area.
+
+Also you have to rename the default Image in the same components/ImageGenarator.jsx file at the top bigining to change the
+default Image.
+
+cheers.
