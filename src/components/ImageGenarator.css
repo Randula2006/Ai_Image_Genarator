@@ -68,3 +68,25 @@
     border: none;
     cursor: pointer;
 }
+
+.loading-bar{
+    width: 0px;
+    height: 8px;
+    background: #DE1B89;
+}
+
+.loading-text{
+    font-size: 18px;
+    padding-top: 8px;
+}
+
+.loading-bar-full{
+    width: 240px;
+    height: 8px;
+    background: #DE1B89;
+    transition: 10s;
+}
+
+.display-none{
+    display: none;
+}
